@@ -1,2 +1,2 @@
 # EDA-TSLA
-Exploratory Data Analysis of tesla stocks is performed
+Exploratory Data Analysis  is performed on a time series data from yahoo finance, data of tesla stocks
